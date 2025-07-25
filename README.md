@@ -51,7 +51,7 @@ Permettre aux acteurs du secteur agricole de **se connecter directement**, d’*
 ---
 
 ## Lien d’accès :
-[Accéder à la Marketplace Smart Farmer]([https://smartfarmerdz.github.io/marketplace](https://www.fennecpannel.com/installable/))
+[Accéder à la Marketplace Smart Farmer](https://www.fennecpannel.com/installable/)
 
 ---
 
